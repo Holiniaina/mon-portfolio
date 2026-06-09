@@ -1,0 +1,15 @@
+# Dossier de production (généré automatiquement par Hugo)
+/public/
+/resources/
+
+# Fichiers de cache et verrous de build
+/assets/jsconfig.json
+.hugo_build.lock
+
+# Dossiers temporaires ou locaux de l'éditeur (VS Code, Front Matter)
+.DS_Store
+ Thumbs.db
+.frontmatter/
+
+# Si vous utilisez des modules Hugo locaux ou des caches système
+/.hugo_cache/
