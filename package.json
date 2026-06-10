@@ -8,7 +8,8 @@
     "build": "hugo",
     "test": "echo \"Error: no test specified\" && exit 1",
     "create:post": "hugo new posts/",
-    "create:page": "hugo new"
+    "create:page": "hugo new",
+    "clean:cache": "npx hugo mod clean"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Holiniaina/mon-portfolio/issues"
   },
-  "homepage": "https://github.com/Holiniaina/mon-portfolio#readme"
+  "homepage": "https://github.com/Holiniaina/mon-portfolio#readme",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.3.0"
+  }
 }

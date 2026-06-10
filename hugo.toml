@@ -1,32 +1,48 @@
 baseURL = "http://localhost:1313"
 locale = "fr-fr"
 title = "Mon Portfolio"
-theme = "ananke"
+theme = "anatole"
 
+# Paramètres Anatole
 [params]
-  author = "Ton Nom"
-  description = "Développeuse passionnée - Création de sites web et applications"
-  featured_image = "/images/this_is_engineering-engineer-4904884.jpg"
+  title = "Prisca"     # Le texte sous ta photo
+  author = "Rakoto"                      # Ton nom
+  description = "Développeur full-stack & créateur web"  # Ta petite bio
+  profilePicture = "images/this_is_engineering-engineer-4904884.jpg"  
 
-[taxonomies]
-  category = "categories"
-  tag = "tags"
+  # Affichage
+  dateform = "02.01.2006"
+  dateformShort = "02.01"
+  dateformNum = "02.01.2006"
+  
+  # Navigation
+  mainSectionsWeight = 1
+  showPostsOnMainMenu = true
+  showReadingTime = false
+  showShare = false
+  showWordCount = false
+  
+  # Portfolio (la fonctionnalité qui t'intéresse)
+  portfolio = true
+  
+  # Mode sombre
+  defaultTheme = "dark"  # "light" ou "dark"
 
-
-  [menu]
+# Menu principal
+[menu]
   [[menu.main]]
     name = "Accueil"
     url = "/"
     weight = 10
   
   [[menu.main]]
-    name = "À propos"
-    url = "/about/"
+    name = "Portfolio"
+    url = "/portfolio/"
     weight = 20
   
   [[menu.main]]
-    name = "Projets"
-    url = "/posts/"
+    name = "À propos"
+    url = "/about/"
     weight = 30
   
   [[menu.main]]

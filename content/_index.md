@@ -1,17 +1,28 @@
 ---
-title: "Bonjour, je suis Rakoto"
+title: "Mon Portfolio" # Ce titre pourrait ne pas être affiché par notre nouveau layout
 date: 2025-01-15
-featured_image: "/images/this_is_engineering-engineer-4904884.jpg"
 ---
 
-## Développeur full-stack & créateur web
+<!-- Un grand titre avec une emoji, à la manière du site -->
+# Hello! 👋  
 
-Je crée des sites **rapides**, **modernes** et **responsives**.
+Je suis **un développeur passionné** basé à [Ta Ville].  
 
-### Mes compétences
-- **Frontend** : HTML5, CSS3, JavaScript, React
-- **Backend** : Python, Node.js, Go
-- **Outils** : Git, Docker, Hugo
+Je construis des sites web et des applications, et j'aime créer des outils pour simplifier mon travail et celui des autres.
 
-### Derniers projets
-Découvrez mes réalisations ci-dessous 👇
+Dans mon temps libre, je travaille sur des projets personnels, écris des articles et partage mes découvertes.
+
+## Sélections d'articles
+
+Une sélection d'articles que j'ai écrits sur le développement et les outils.
+
+<!-- Une liste non ordonnée simple pour les liens -->
+- [Comment j'ai construit mon portfolio avec Hugo](/posts/mon-premier-article)
+- [Guide Tailwind pour les débutants](/posts/autre-article)
+
+## Projets phares
+
+Une sélection de projets que j'ai construits et que je maintiens activement.
+
+- [Mon Projet E-commerce](/posts/mon-projet-ecommerce)
+- [Application de Gestion de Tâches](/posts/gestion-taches)
