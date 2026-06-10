@@ -1,0 +1,25 @@
+{
+  "name": "mon-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "hugo server -D",
+    "build": "hugo",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "create:post": "hugo new posts/",
+    "create:page": "hugo new"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Holiniaina/mon-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Holiniaina/mon-portfolio/issues"
+  },
+  "homepage": "https://github.com/Holiniaina/mon-portfolio#readme"
+}

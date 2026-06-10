@@ -5,8 +5,8 @@ theme = "ananke"
 
 [params]
   author = "Ton Nom"
-  description = "Développeur passionné - Création de sites web et applications"
-  featured_image = "/images/banner.jpg"
+  description = "Développeuse passionnée - Création de sites web et applications"
+  featured_image = "/images/this_is_engineering-engineer-4904884.jpg"
 
 [taxonomies]
   category = "categories"

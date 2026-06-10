@@ -1,5 +1,5 @@
 # Dossier de production (généré automatiquement par Hugo)
-/public/
+public/
 /resources/
 
 # Fichiers de cache et verrous de build
@@ -13,3 +13,16 @@
 
 # Si vous utilisez des modules Hugo locaux ou des caches système
 /.hugo_cache/
+
+
+# Dépendances
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo

@@ -1,7 +1,7 @@
 ---
-title: "Bonjour, je suis [Ton Nom]"
+title: "Bonjour, je suis Rakoto"
 date: 2025-01-15
-featured_image: "/images/hero.jpg"
+featured_image: "/images/this_is_engineering-engineer-4904884.jpg"
 ---
 
 ## Développeur full-stack & créateur web
